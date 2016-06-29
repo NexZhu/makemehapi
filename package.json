@@ -1,0 +1,21 @@
+{
+  "name": "makemehapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "h2o2": "^5.1.0",
+    "handlebars": "^4.0.5",
+    "hapi": "^13.4.1",
+    "hapi-auth-basic": "^4.2.0",
+    "inert": "^4.0.0",
+    "rot13-transform": "^1.0.0",
+    "vision": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
